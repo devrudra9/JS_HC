@@ -1,1 +1,3 @@
 Readme :wq!
+:w!
+:x!
